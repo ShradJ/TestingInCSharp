@@ -100,3 +100,8 @@ C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\obj\Deb
 C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\obj\Debug\net6.0\SparkyNUnitTest.pdb
 C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\obj\Debug\net6.0\SparkyNUnitTest.genruntimeconfig.cache
 C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\obj\Debug\net6.0\ref\SparkyNUnitTest.dll
+C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\bin\Debug\net6.0\Moq.dll
+C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\shradsharma\source\repos\TestingInCSharp\Sparky\SparkyNUnitTest\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
