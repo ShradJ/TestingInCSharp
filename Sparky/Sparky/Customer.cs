@@ -8,10 +8,12 @@ namespace Sparky
 {
     public class Customer
     {
+        public string GreetMessage { get; set; } 
         
         public string GreetAndCombineNames(string firstName, string secondName)
         {
-            return $"Hello {firstName} {secondName}";
+            GreetMessage = $"Hello {firstName} {secondName}";
+            return GreetMessage ;
         }
     }
 }
