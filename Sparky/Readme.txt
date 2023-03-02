@@ -8,3 +8,8 @@ MSTest -
             ** note** - Don't use mock when its not needed. for example if there was no dependency injection, then don't make interfaces just for Mocking. 
             Its called Abuse of Mocking. 
            ** To test a method which returns a value based on a condition we can use 2 separate methods each with a mock setup to satisfy the individual condition. 
+
+           ** we can also test the output variable [void xy( out int x)], by putting out in MOQ setup 
+           ** Above same as for "ref" objects too. 
+ 4.XUnit - Concept is same as NUnit, but annotations are different. 
+ ** NUnit covers maximum feature, then XUnit, and least are MSUnit. 
