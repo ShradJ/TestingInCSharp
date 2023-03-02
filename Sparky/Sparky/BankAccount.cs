@@ -24,12 +24,13 @@ namespace Sparky
             return true;
         }
         public bool WithDraw(int amount) {
-        if(amount < 0)
+        if(amount > 0)
             {
+                _logbook.LogToDb("Amount withdrwal : " + amount.ToString());
                 Balance -= amount;
-                return true;
+                return _logbook.LogBalanceAfterWithdrawal(Balance);
             }
-        return false;
+        return _logbook.LogBalanceAfterWithdrawal(Balance);
         }
     }
 }
